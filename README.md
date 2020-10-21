@@ -41,7 +41,7 @@ After you succesfully launched the server please check our endpoints by visiting
 ![Models](https://github.com/rmeji1/mod4-todo-app-backend/blob/master/schema.png)
 
 ## Demo 
-Check out [ToDo App](https://arcane-sands-50858.herokuapp.com/)
+Check out [ToDo App](https://emskaplann.github.io/to-do-app-frontend)
 
 ## Contributing
 Pull requests are more than welcome. For major changes, please open an issue first to discuss what you would like to change.
